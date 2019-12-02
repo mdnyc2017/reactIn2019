@@ -1,7 +1,9 @@
 Personal e-commerce application built to explore Stripe's APIs, React 16's latest features, Redux-Saga, GraphQL, the ContextAPI, and Firebase.
 
 
+
 ##ReadMe.md content from create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
