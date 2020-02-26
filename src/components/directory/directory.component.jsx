@@ -10,7 +10,7 @@ import './directory.styles.scss';
 const Directory = ({ sections }) => (
     <div className="directory-menu">
         {
-            this.state.sections.map(({ id, ...otherSectionProps }, index) => (
+            sections.map(({ id, ...otherSectionProps }, index) => (
                 <MenuItem
                     key={id}
                     {...otherSectionProps}
